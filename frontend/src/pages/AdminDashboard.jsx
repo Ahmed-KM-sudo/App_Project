@@ -5,7 +5,8 @@ import {
   BarChart3, Clock, CheckCircle, XCircle, Users,
   FileText, Eye, Filter, ChevronLeft, ChevronRight,
   Loader2, AlertCircle, Search, User, Download, Edit3, MessageCircle,
-  Home, TrendingUp, CheckSquare, Square, Trash2, ArrowUpRight, X, Send, Phone, Smartphone, LayoutDashboard, Settings
+  Home, TrendingUp, CheckSquare, Square, Trash2, ArrowUpRight, X, Send, Phone, Smartphone, LayoutDashboard, Settings,
+  GraduationCap
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import {
